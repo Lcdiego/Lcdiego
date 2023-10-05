@@ -13,6 +13,6 @@ Conéctate conmigo:
 www.linkedin.com/in/diego-colman-07528928a
 
 Lenguajes y herramientas:
-Aws Bootstrap Bulma css3 figma Git html5 javascript materializar MySQL Nodejs oráculo pitón reaccionar reactnative Tailwind
+ Html ; CSS ; JavaScript ; React Vite, React Native, chakra ui, Bootstrap, NodeJs, Express, Base de Datos en MySQL , MongoDB, Mongo DB Atlas , GIT, Github
 
 
