@@ -3,7 +3,7 @@
 
 Hola 👋, soy Diego Colman
 
-👨 💻 Todos mis proyectos están disponibles 
+👨 💻 Todos mis proyectos están disponibles en https://github.com/Lcdiego?tab=repositories
 
 💬 Pregúntame sobre HTML, CSS, JS, REACT
 
