@@ -7,7 +7,7 @@ Hola 👋, soy Diego Colman
 
 💬 Pregúntame sobre HTML, CSS, JS, REACT
 
-📫 ¿Cómo contactar conmigo diegocolman@hotmail.com
+📫 ¿Cómo contactar conmigo diegocolman78@hotmail.com
 
 Conéctate conmigo:
 www.linkedin.com/in/diego-colman-a67754297
